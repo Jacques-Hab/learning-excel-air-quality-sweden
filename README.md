@@ -1,4 +1,3 @@
-# Learning-excel-air-quality-sweden
 # Learning Excel: Air Quality Data Cleaning (Sweden)
 
 ##  Project Goal
